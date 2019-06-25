@@ -18,7 +18,7 @@ We are proud to provide one of the best CryptoCurrency Payment Solution with no 
 
 ### Available CryptoCurrencies
 
-Bitcoin, Bitcoin Cash, Ethereum, DASH, Litecoin, Monero, NEO, NEM, Ripple, B2BX and any ERC20, NEO tokens, TRON, Cardano and others in one place!
+Waves, Bitcoin, Bitcoin Cash, Ethereum, DASH, Litecoin, Monero, NEO, NEM, Ripple, B2BX and any ERC20, NEO tokens, TRON, Cardano and others in one place!
 
 ## Installation
 
